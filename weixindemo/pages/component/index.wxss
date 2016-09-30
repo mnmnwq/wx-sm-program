@@ -1,0 +1,16 @@
+/**index.wxss**/
+.index{
+    background-color:#FBF9FE;
+    font-size:16px;
+}
+.head{
+    text-align:center;
+}
+.title{
+    font-size:18px; 
+    font-weight:700;
+}
+.desc{
+   font-size: 12px;
+   color:blueviolet;
+}
